@@ -1,5 +1,5 @@
 {
-    "name": "openzipkin/zipkin",
+    "name": "nightio/zipkin",
     "type": "library",
     "description": "A Zipkin instrumentation for PHP",
     "keywords": [
